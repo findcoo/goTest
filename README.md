@@ -1,4 +1,4 @@
-# testSuit
+# goTest
 personal test tool for gin based http server
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/usjeong/testSuit)](https://goreportcard.com/report/github.com/usjeong/testSuit)
