@@ -30,7 +30,7 @@ func TestPing(*testing.T) {
 
 ```
 
-## Other functions
+## Other function
 ```go
 // generate the random color image
 func GenImage(ext string, width, height int) (*bytes.Buffer, string, error) {}
